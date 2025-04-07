@@ -22,7 +22,7 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 
 # PROGRAM
 ```
-#include <stdio.h>
+ #include <stdio.h>
  #include <string.h>
  int main() {
  int i, j, k, l;
